@@ -3,7 +3,7 @@
 
 **Мартин Панчовски - 183126**
 
-![alt text]()
+![alt text](https://github.com/martinpanch/SI_Lab2_183126/blob/main/lab2_cfg.png)
 
 **Цикломатска комплексност**
 
